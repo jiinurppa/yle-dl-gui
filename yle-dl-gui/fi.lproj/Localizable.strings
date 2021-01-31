@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  yle-dl-gui
+
+  Created by Juuso Nurminen on 31.1.2021.
+  
+*/
+filenamePrefix = "Ladattu_";
+yleDlNotInstalledWarning = "❌ yle-dl ei löydy oletuspolusta, avaa selaimeen";
+downloadSucceeded = "✅ Lataus valmistui";
+downloadFailed = "❌ Lataus epäonnistui";
+videoUrlButton = "Videon osoite";
+eg = "esim.";
+browse = "Selaa";
+chooseFolder = "Valitse kansio";
+pathButton = "Tallennuskansio";
+yleDlHelpLink = "yle-dl asennusohjeet";
+showVideoButton = "Näytä video";
+download = "Lataa";
+downloadInProgress = "Lataus on käynnissä";

@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  yle-dl-gui
+
+  Created by Juuso Nurminen on 31.1.2021.
+  
+*/
+filenamePrefix = "Downloaded_";
+yleDlNotInstalledWarning = "❌ yle-dl not found in default path, open";
+downloadSucceeded = "✅ Download done";
+downloadFailed = "❌ Download failed";
+videoUrlButton = "Video address";
+eg = "e.g.";
+browse = "Browse";
+chooseFolder = "Choose folder";
+pathButton = "File path";
+yleDlHelpLink = "yle-dl installation steps";
+showVideoButton = "Show file";
+download = "Download";
+downloadInProgress = "Download in progress";
