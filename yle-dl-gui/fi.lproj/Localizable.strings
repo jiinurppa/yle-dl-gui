@@ -6,7 +6,7 @@
   
 */
 filenamePrefix = "Ladattu_";
-yleDlNotInstalledWarning = "❌ yle-dl ei löydy oletuspolusta, avaa selaimeen";
+yleDlNotInstalledWarning = "⚠️ yle-dl ei löydy oletuspolusta, avaa selaimeen";
 downloadSucceeded = "✅ Lataus valmistui";
 downloadFailed = "❌ Lataus epäonnistui";
 videoUrlButton = "Videon osoite";
