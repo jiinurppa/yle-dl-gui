@@ -5,7 +5,7 @@
 
 ![Security & Privacy Preferences](settings.png)
 
-**yle-dl-gui** will check if [yle-dl](https://github.com/aajanki/yle-dl) exists at `/opt/homebrew/bin/yle-dl` ([new default path](https://docs.brew.sh/FAQ#why-should-i-install-homebrew-in-the-default-location)) and shows a warning if it doesn't. Downloading is still enabled.
+**yle-dl-gui** will check if [yle-dl](https://github.com/aajanki/yle-dl) exists at `/opt/homebrew/bin/yle-dl` ([new default path](https://docs.brew.sh/FAQ#why-should-i-install-homebrew-in-the-default-location)) and shows a warning if it doesn't. Downloading is still enabled. This warning can be ignored on Intel macs.
 
 ![Missing yle-dl Warning](missing_yle-dl.png)
 
