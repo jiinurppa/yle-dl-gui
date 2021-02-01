@@ -6,7 +6,7 @@
   
 */
 filenamePrefix = "Downloaded_";
-yleDlNotInstalledWarning = "❌ yle-dl not found in default path, open";
+yleDlNotInstalledWarning = "⚠️ yle-dl not found in default path, open";
 downloadSucceeded = "✅ Download done";
 downloadFailed = "❌ Download failed";
 videoUrlButton = "Video address";
