@@ -1,5 +1,7 @@
 ![Logo](icon.png)
 
+[Download](https://github.com/jiinurppa/yle-dl-gui/releases)
+
 # Overview
 **yle-dl-gui** is a macOS graphical user interface for [yle-dl](https://github.com/aajanki/yle-dl) similar to [Areena-lataaja](https://simopot.github.io/areena/). **yle-dl-gui** does not include [yle-dl](https://github.com/aajanki/yle-dl), but instead uses the user installed version of it. **yle-dl-gui** is not signed, so allowed apps need to be set to *App Store and identified developers*.
 
